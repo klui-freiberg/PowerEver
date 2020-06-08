@@ -1,21 +1,28 @@
 # Using your PowerEver!
 
-Before start using PowerEver, please make sure that you are using it with a 5V USB port of your power bank and not 12V port available in some power banks, otherwise the unit will be permanently damaged.
+Before start using PowerEver, please make sure that you are using it with a 5V USB port of your power bank
+and not 12V port available in some power banks, otherwise the unit will be permanently damaged.
 
-Connect the unit between a power bank and a target electronic boards to be powered using an appropriate cable e.g. USB - Micro USB.  For a direct electrical wire connection, use a USB to 5p screw terminal adapter by connecting plus (+) and minus (-) terminal poles. Most of the power banks will now supply a power continuously without shutting down.
+Connect the unit between a power bank and a target electronic boards to be powered using an appropriate cable 
+e.g. USB - Micro USB.  For a direct electrical wire connection, use a USB to 5p screw terminal adapter by connecting 
+plus (+) and minus (-) terminal poles. Most of the power banks will now supply a power continuously without shutting down.
 
-However, if the unit still keep shutting down, shortly press a push button switch on the backside one or more time (each time about 1 mA more current will be drawn) then re-connect with the power bank again. Repeat this step until the power bank becomes on permanently. 
+However, if the unit still keep shutting down, shortly press a push button switch on the backside one or more time 
+(each time about 1 mA more current will be drawn) then re-connect with the power bank again. Repeat this step until 
+the power bank becomes on permanently. 
 
 Note
 
 - Pressing the button longer than a few seconds will revert the previous action (status LED blinks 2 times).
 - LED will blink 5 times if the lower and upper limits of the adjustment have been reached. 
-- It is recommended to reduce the unit’s current consumption step by step while keep your system running to minimize unnecessary power loss.
-
+- It is recommended to reduce the unit’s current consumption step by step while keep your system running to minimize 
+unnecessary power loss.
 
 Resetting Factory Default
 
-Remove the unit from the power bank, keep pressing the push button, connect it to the power bank and wait until the LED is blinking 5 time then release the button. The unit will now in a default factory setup state that should work for a majority of power banks in the market.
+Remove the unit from the power bank, keep pressing the push button, connect it to the power bank and wait until the LED 
+is blinking 5 time then release the button. The unit will now in a default factory setup state that should work fine
+for a majority of power banks in the market.
 
 Thank you for choosing and using PowerEver!
 
